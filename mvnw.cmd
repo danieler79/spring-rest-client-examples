@@ -19,7 +19,7 @@
 
 @REM ----------------------------------------------------------------------------
 @REM Maven2 Start Up Batch script
-@REM
+@REMguru.springframework
 @REM Required ENV vars:
 @REM JAVA_HOME - location of a JDK home dir
 @REM
